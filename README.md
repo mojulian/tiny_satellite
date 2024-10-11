@@ -1,8 +1,9 @@
 # tiny_satellite
+This project is very much inspired from: https://www.bhoite.com/sculptures/satellite-2202/
 
 
-Programming:
-
+---
+### Programming:
 Arduino IDE with this board: http://drazzy.com/package_drazzy.com_index.json 
 
 ![AtTiny85 Pinout](images/image1.png)
